@@ -2,3 +2,4 @@
 
 - Web Scraping
 - Análisis de Data de Mundiales de Futbol
+- Prediccion con Python
